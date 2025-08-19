@@ -1,0 +1,24 @@
+{
+  "id": "crs2/mdl6/crs2mdl6lsn1",
+  "title": "What We Learned",
+  "description": "We started with the basics—what reverse image search is and why it matters. Then we practiced how to use it step-by-step. We explored advanced tricks like time filters, and we saw how it helps in real-world cases: spotting fake news, scams, and misuse of images. Finally, we learned about the tool’s limitations and alternatives.",
+  "source": "@site/docs/crs2/mdl6/crs2mdl6lsn1 copy.mdx",
+  "sourceDirName": "crs2/mdl6",
+  "slug": "/crs2mdl6lsn1",
+  "permalink": "/docs/crs2mdl6lsn1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/crs2/mdl6/crs2mdl6lsn1 copy.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "crs2mdl6lsn1",
+    "title": "What We Learned",
+    "slug": "/crs2mdl6lsn1"
+  },
+  "sidebar": "course2",
+  "previous": {
+    "title": "Google’s tool isn’t perfect",
+    "permalink": "/docs/crs2mdl5lsn1"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/km/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/km/docs",
+          "mainDocId": "crs2/mdl1/crs2mdl1lsn1",
+          "docs": [
+            {
+              "id": "crs1/mdl1/crs1mdl1lsn1",
+              "path": "/km/docs/crs1mdl1lsn1"
+            },
+            {
+              "id": "crs1/mdl1/crs1mdl1lsn2",
+              "path": "/km/docs/crs1mdl1lsn2"
+            },
+            {
+              "id": "crs1/mdl1/crs1mdl1lsn3",
+              "path": "/km/docs/crs1mdl1lsn3"
+            },
+            {
+              "id": "crs1/mdl1/crs1mdl1lsn4",
+              "path": "/km/docs/crs1mdl1lsn4"
+            },
+            {
+              "id": "crs1/mdl2/crs1mdl2lsn1",
+              "path": "/km/docs/crs1mdl2lsn1"
+            },
+            {
+              "id": "crs1/mdl2/crs1mdl2lsn2",
+              "path": "/km/docs/crs1mdl2lsn2"
+            },
+            {
+              "id": "crs1/mdl2/crs1mdl2lsn3",
+              "path": "/km/docs/crs1mdl2lsn3"
+            },
+            {
+              "id": "crs1/mdl2/crs1mdl2lsn4",
+              "path": "/km/docs/crs1mdl2lsn4"
+            },
+            {
+              "id": "crs1/mdl3/crs1mdl3lsn1",
+              "path": "/km/docs/crs1mdl3lsn1"
+            },
+            {
+              "id": "crs1/mdl3/crs1mdl3lsn2",
+              "path": "/km/docs/crs1mdl3lsn2"
+            },
+            {
+              "id": "crs1/mdl3/crs1mdl3lsn3",
+              "path": "/km/docs/crs1mdl3lsn3"
+            },
+            {
+              "id": "crs1/mdl3/crs1mdl3lsn4",
+              "path": "/km/docs/crs1mdl3lsn4"
+            },
+            {
+              "id": "crs1/mdl4/crs1mdl4lsn1",
+              "path": "/km/docs/crs1mdl4lsn1"
+            },
+            {
+              "id": "crs1/mdl4/crs1mdl4lsn2",
+              "path": "/km/docs/crs1mdl4lsn2"
+            },
+            {
+              "id": "crs1/mdl4/crs1mdl4lsn3",
+              "path": "/km/docs/crs1mdl4lsn3"
+            },
+            {
+              "id": "crs1/mdl4/crs1mdl4lsn4",
+              "path": "/km/docs/crs1mdl4lsn4"
+            },
+            {
+              "id": "crs2/mdl1/crs2mdl1lsn1",
+              "path": "/km/docs/crs2mdl1lsn1",
+              "sidebar": "course2"
+            },
+            {
+              "id": "crs2/mdl1/crs2mdl1lsn2",
+              "path": "/km/docs/crs2mdl1lsn2",
+              "sidebar": "course2"
+            },
+            {
+              "id": "crs2/mdl2/crs2mdl2lsn1",
+              "path": "/km/docs/crs2mdl2lsn1",
+              "sidebar": "course2"
+            },
+            {
+              "id": "crs2/mdl2/crs2mdl2lsn2",
+              "path": "/km/docs/crs2mdl2lsn2",
+              "sidebar": "course2"
+            },
+            {
+              "id": "crs2/mdl2/crs2mdl2lsn3",
+              "path": "/km/docs/crs2mdl2lsn3",
+              "sidebar": "course2"
+            },
+            {
+              "id": "crs2/mdl3/crs2mdl3lsn1",
+              "path": "/km/docs/crs2mdl3lsn1",
+              "sidebar": "course2"
+            },
+            {
+              "id": "crs2/mdl3/crs2mdl3lsn2",
+              "path": "/km/docs/crs2mdl3lsn2",
+              "sidebar": "course2"
+            },
+            {
+              "id": "crs2/mdl3/crs2mdl3lsn3",
+              "path": "/km/docs/crs2mdl3lsn3",
+              "sidebar": "course2"
+            },
+            {
+              "id": "crs2/mdl3/crs2mdl3lsn4",
+              "path": "/km/docs/crs2mdl3lsn4",
+              "sidebar": "course2"
+            },
+            {
+              "id": "crs2/mdl4/crs2mdl4lsn1",
+              "path": "/km/docs/crs2mdl4lsn1",
+              "sidebar": "course2"
+            },
+            {
+              "id": "crs2/mdl4/crs2mdl4lsn2",
+              "path": "/km/docs/crs2mdl4lsn2",
+              "sidebar": "course2"
+            },
+            {
+              "id": "crs2/mdl4/crs2mdl4lsn3",
+              "path": "/km/docs/crs2mdl4lsn3",
+              "sidebar": "course2"
+            },
+            {
+              "id": "crs2/mdl4/crs2mdl4lsn4",
+              "path": "/km/docs/crs2mdl4lsn4",
+              "sidebar": "course2"
+            },
+            {
+              "id": "crs2/mdl5/crs2mdl5lsn1",
+              "path": "/km/docs/crs2mdl5lsn1",
+              "sidebar": "course2"
+            },
+            {
+              "id": "crs2/mdl6/crs2mdl6lsn1",
+              "path": "/km/docs/crs2mdl6lsn1",
+              "sidebar": "course2"
+            },
+            {
+              "id": "crs2/mdl6/crs2mdl6lsn2",
+              "path": "/km/docs/crs2mdl6lsn2",
+              "sidebar": "course2"
+            },
+            {
+              "id": "crs2/mdl6/crs2mdl6lsn3",
+              "path": "/km/docs/crs2mdl6lsn3",
+              "sidebar": "course2"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "course2": {
+              "link": {
+                "path": "/km/docs/crs2mdl1lsn1",
+                "label": "What is Reverse Image Search?"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

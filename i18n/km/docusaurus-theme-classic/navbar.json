@@ -1,0 +1,34 @@
+{
+  "title": {
+    "message": "LookCloser Hub",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "My Site Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Resource": {
+    "message": "Resource",
+    "description": "Navbar item with label Resource"
+  },
+  "item.label.Webinar": {
+    "message": "Webinar",
+    "description": "Navbar item with label Webinar"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.All Posts": {
+    "message": "All Posts",
+    "description": "Navbar item with label All Posts"
+  },
+  "item.label.Categories": {
+    "message": "Categories",
+    "description": "Navbar item with label Categories"
+  },
+  "item.label.Tags": {
+    "message": "Tags",
+    "description": "Navbar item with label Tags"
+  }
+}

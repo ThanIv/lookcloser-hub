@@ -1,0 +1,25 @@
+{
+  "defaultLocale": "en",
+  "locales": [
+    "en",
+    "km"
+  ],
+  "path": "i18n",
+  "currentLocale": "km",
+  "localeConfigs": {
+    "en": {
+      "label": "English",
+      "direction": "ltr",
+      "htmlLang": "en",
+      "calendar": "gregory",
+      "path": "en"
+    },
+    "km": {
+      "label": "ភាសាខ្មែរ",
+      "direction": "ltr",
+      "htmlLang": "km",
+      "calendar": "gregory",
+      "path": "km"
+    }
+  }
+}

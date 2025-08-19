@@ -1,0 +1,19 @@
+{
+  "id": "course/introd",
+  "title": "intro",
+  "description": "Instructions for installing the software.",
+  "source": "@site/docs/course/intro.md",
+  "sourceDirName": "course",
+  "slug": "/introd",
+  "permalink": "/docs/introd",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/course/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "introd",
+    "title": "intro",
+    "slug": "/introd"
+  }
+}

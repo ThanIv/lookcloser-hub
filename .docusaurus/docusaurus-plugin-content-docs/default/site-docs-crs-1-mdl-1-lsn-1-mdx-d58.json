@@ -1,0 +1,19 @@
+{
+  "id": "crs1/mdl1/crs1mdl1lsn1",
+  "title": "What is AI? (basic, easy explanation)",
+  "description": "id: crs1mdl1lsn1",
+  "source": "@site/docs/crs1/mdl1/lsn1.mdx",
+  "sourceDirName": "crs1/mdl1",
+  "slug": "/crs1/mdl1/crs1mdl1lsn1",
+  "permalink": "/docs/crs1/mdl1/crs1mdl1lsn1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/crs1/mdl1/lsn1.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "crs1mdl1lsn1",
+    "title": "What is AI? (basic, easy explanation)",
+    "slug": "/crs1/mdl1/crs1mdl1lsn1"
+  }
+}

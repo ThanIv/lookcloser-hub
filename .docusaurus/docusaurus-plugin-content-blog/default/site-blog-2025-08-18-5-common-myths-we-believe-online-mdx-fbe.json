@@ -1,0 +1,63 @@
+{
+  "permalink": "/km/blog/5-common-myths-we-believe-online",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2025-08-18-5-common-myths-we-believe-online.mdx",
+  "source": "@site/blog/2025-08-18-5-common-myths-we-believe-online.mdx",
+  "title": "5 Common Myths We Believe Online (and How to Check the Facts)",
+  "description": "The internet is full of amazing things—but it’s also full of myths that just won’t die. Sometimes we see them so often that they start to feel true. The good news? With a little media and information literacy (MIL), we can learn to question and fact-check before believing or sharing.",
+  "date": "2025-08-18T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "MediaLiteracy",
+      "permalink": "/km/blog/tags/mediaLiteracy",
+      "description": "MediaLiteracy tag description"
+    },
+    {
+      "inline": false,
+      "label": "FactChecking",
+      "permalink": "/km/blog/tags/factChecking",
+      "description": "FactChecking tag description"
+    },
+    {
+      "inline": false,
+      "label": "OnlineMyths",
+      "permalink": "/km/blog/tags/onlineMyths",
+      "description": "OnlineMyths tag description"
+    },
+    {
+      "inline": false,
+      "label": "FakeNews",
+      "permalink": "/km/blog/tags/fakeNews",
+      "description": "FakeNews tag description"
+    }
+  ],
+  "readingTime": 3.02,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "LookCloser Hub",
+      "title": "LookCloser Hub, Community",
+      "url": "https://linkedin.com/in/yangshun",
+      "key": "LookCloser_Hub",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "5-common-myths-we-believe-online",
+    "title": "5 Common Myths We Believe Online (and How to Check the Facts)",
+    "authors": [
+      "LookCloser_Hub"
+    ],
+    "tags": [
+      "mediaLiteracy",
+      "factChecking",
+      "onlineMyths",
+      "fakeNews"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "5 Cool Sites to Learn About Media and Information Literacy",
+    "permalink": "/km/blog/5-cool-sites-to-learn-about-media-and-information-literacy"
+  }
+}

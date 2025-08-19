@@ -1,0 +1,67 @@
+{
+  "permalink": "/km/blog/5-cool-sites-to-learn-about-media-and-information-literacy",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2025-08-19-5-cool-sites-to-learn-about-media-and-information-literacy.mdx",
+  "source": "@site/blog/2025-08-19-5-cool-sites-to-learn-about-media-and-information-literacy.mdx",
+  "title": "5 Cool Sites to Learn About Media and Information Literacy",
+  "description": "We spend so much of our time online—scrolling social media, watching videos, reading news, or just Googling random stuff. But let’s be real: not everything we see is true or trustworthy. That’s where Media and Information Literacy (MIL) comes in. Basically, it’s about learning how to spot fake news, think critically, and use media in smart ways.",
+  "date": "2025-08-19T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "MediaLiteracy",
+      "permalink": "/km/blog/tags/mediaLiteracy",
+      "description": "MediaLiteracy tag description"
+    },
+    {
+      "inline": false,
+      "label": "FactChecking",
+      "permalink": "/km/blog/tags/factChecking",
+      "description": "FactChecking tag description"
+    },
+    {
+      "inline": false,
+      "label": "OnlineMyths",
+      "permalink": "/km/blog/tags/onlineMyths",
+      "description": "OnlineMyths tag description"
+    },
+    {
+      "inline": false,
+      "label": "FakeNews",
+      "permalink": "/km/blog/tags/fakeNews",
+      "description": "FakeNews tag description"
+    }
+  ],
+  "readingTime": 1.9,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "LookCloser Hub",
+      "title": "LookCloser Hub, Community",
+      "url": "https://linkedin.com/in/yangshun",
+      "key": "LookCloser_Hub",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "5-cool-sites-to-learn-about-media-and-information-literacy",
+    "title": "5 Cool Sites to Learn About Media and Information Literacy",
+    "authors": [
+      "LookCloser_Hub"
+    ],
+    "tags": [
+      "mediaLiteracy",
+      "factChecking",
+      "onlineMyths",
+      "fakeNews"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "How to Spot Fake News in 3 Easy Steps",
+    "permalink": "/km/blog/how-to-spot-sake-news-in-3-easy-steps"
+  },
+  "nextItem": {
+    "title": "5 Common Myths We Believe Online (and How to Check the Facts)",
+    "permalink": "/km/blog/5-common-myths-we-believe-online"
+  }
+}

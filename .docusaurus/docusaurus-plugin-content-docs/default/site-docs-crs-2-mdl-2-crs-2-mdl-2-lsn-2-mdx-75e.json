@@ -1,0 +1,28 @@
+{
+  "id": "crs2/mdl2/crs2mdl2lsn2",
+  "title": "Step 2 Uploading or pasting an image link",
+  "description": "You can upload an image directly from your computer or phone, paste an image link from the web, or simply drag and drop the file into the Google Images search bar.",
+  "source": "@site/docs/crs2/mdl2/crs2mdl2lsn2.mdx",
+  "sourceDirName": "crs2/mdl2",
+  "slug": "/crs2mdl2lsn2",
+  "permalink": "/km/docs/crs2mdl2lsn2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/crs2/mdl2/crs2mdl2lsn2.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "crs2mdl2lsn2",
+    "title": "Step 2 Uploading or pasting an image link",
+    "slug": "/crs2mdl2lsn2"
+  },
+  "sidebar": "course2",
+  "previous": {
+    "title": "Step 1: Accessing it (desktop vs. mobile)",
+    "permalink": "/km/docs/crs2mdl2lsn1"
+  },
+  "next": {
+    "title": "Step 3: Reading the results page (visually similar images, related sites, timestamps)",
+    "permalink": "/km/docs/crs2mdl2lsn3"
+  }
+}

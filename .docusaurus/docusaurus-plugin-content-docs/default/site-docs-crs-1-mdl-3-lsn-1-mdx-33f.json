@@ -1,0 +1,15 @@
+{
+  "id": "crs1/mdl3/lsn1",
+  "title": "lsn1",
+  "description": "",
+  "source": "@site/docs/crs1/mdl3/lsn1.mdx",
+  "sourceDirName": "crs1/mdl3",
+  "slug": "/crs1/mdl3/lsn1",
+  "permalink": "/docs/crs1/mdl3/lsn1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/crs1/mdl3/lsn1.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

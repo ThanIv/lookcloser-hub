@@ -1,0 +1,28 @@
+{
+  "id": "crs2/mdl4/crs2mdl4lsn3",
+  "title": "Academic/creative use (finding higher-resolution versions, tracking copyright use)",
+  "description": "Students, researchers, and artists also benefit. You can find higher-resolution versions of an image, track whether your work has been reused, or check copyright information to avoid plagiarism.",
+  "source": "@site/docs/crs2/mdl4/crs2mdl4lsn3.mdx",
+  "sourceDirName": "crs2/mdl4",
+  "slug": "/crs2mdl4lsn3",
+  "permalink": "/km/docs/crs2mdl4lsn3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/crs2/mdl4/crs2mdl4lsn3.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "crs2mdl4lsn3",
+    "title": "Academic/creative use (finding higher-resolution versions, tracking copyright use)",
+    "slug": "/crs2mdl4lsn3"
+  },
+  "sidebar": "course2",
+  "previous": {
+    "title": "Spotting scams (fake profile pictures, product listings)",
+    "permalink": "/km/docs/crs2mdl4lsn2"
+  },
+  "next": {
+    "title": "Case studies",
+    "permalink": "/km/docs/crs2mdl4lsn4"
+  }
+}

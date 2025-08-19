@@ -1,0 +1,20 @@
+{
+  "id": "course/setup",
+  "title": "setup",
+  "description": "Instructions for installing the software.",
+  "source": "@site/docs/course/setup.md",
+  "sourceDirName": "course",
+  "slug": "/setup",
+  "permalink": "/docs/setup",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/course/setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "setup",
+    "title": "setup",
+    "slug": "/setup",
+    "pagination_next": null
+  }
+}

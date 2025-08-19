@@ -1,0 +1,63 @@
+{
+  "permalink": "/km/blog/how-to-spot-sake-news-in-3-easy-steps",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2025-08-20-how-to-spot-sake-news-in-3-easy-steps.mdx",
+  "source": "@site/blog/2025-08-20-how-to-spot-sake-news-in-3-easy-steps.mdx",
+  "title": "How to Spot Fake News in 3 Easy Steps",
+  "description": "We’ve all seen it—headlines that sound too wild to be true, posts that spread like wildfire, or “breaking news” that your cousin swears is real. But not everything online is trustworthy. In fact, fake news spreads faster than real news because it’s designed to grab attention.",
+  "date": "2025-08-20T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "MediaLiteracy",
+      "permalink": "/km/blog/tags/mediaLiteracy",
+      "description": "MediaLiteracy tag description"
+    },
+    {
+      "inline": false,
+      "label": "FactChecking",
+      "permalink": "/km/blog/tags/factChecking",
+      "description": "FactChecking tag description"
+    },
+    {
+      "inline": false,
+      "label": "OnlineMyths",
+      "permalink": "/km/blog/tags/onlineMyths",
+      "description": "OnlineMyths tag description"
+    },
+    {
+      "inline": false,
+      "label": "FakeNews",
+      "permalink": "/km/blog/tags/fakeNews",
+      "description": "FakeNews tag description"
+    }
+  ],
+  "readingTime": 1.64,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "LookCloser Hub",
+      "title": "LookCloser Hub, Community",
+      "url": "https://linkedin.com/in/yangshun",
+      "key": "LookCloser_Hub",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "how-to-spot-sake-news-in-3-easy-steps",
+    "title": "How to Spot Fake News in 3 Easy Steps",
+    "authors": [
+      "LookCloser_Hub"
+    ],
+    "tags": [
+      "mediaLiteracy",
+      "factChecking",
+      "onlineMyths",
+      "fakeNews"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "5 Cool Sites to Learn About Media and Information Literacy",
+    "permalink": "/km/blog/5-cool-sites-to-learn-about-media-and-information-literacy"
+  }
+}

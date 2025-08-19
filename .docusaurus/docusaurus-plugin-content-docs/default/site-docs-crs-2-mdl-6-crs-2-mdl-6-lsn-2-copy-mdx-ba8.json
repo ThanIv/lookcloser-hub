@@ -1,0 +1,19 @@
+{
+  "id": "crs2/mdl6/crs2mdl6lsn2",
+  "title": "Quiz",
+  "description": "Let’s do a quick quiz to test your memory.",
+  "source": "@site/docs/crs2/mdl6/crs2mdl6lsn2 copy.mdx",
+  "sourceDirName": "crs2/mdl6",
+  "slug": "/crs2mdl6lsn2",
+  "permalink": "/docs/crs2mdl6lsn2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/crs2/mdl6/crs2mdl6lsn2 copy.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "crs2mdl6lsn2",
+    "title": "Quiz",
+    "slug": "/crs2mdl6lsn2"
+  }
+}

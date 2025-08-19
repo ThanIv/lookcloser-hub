@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.courseSidebar1.doc.Introduction": {
+    "message": "Introduction",
+    "description": "The label for the doc item Introduction in sidebar courseSidebar1, linking to the doc intro"
+  },
+  "sidebar.courseSidebar.category.Course": {
+    "message": "Course",
+    "description": "The label for category Course in sidebar courseSidebar"
+  },
+  "sidebar.courseSidebar.doc.Introduction": {
+    "message": "Introduction",
+    "description": "The label for the doc item Introduction in sidebar courseSidebar, linking to the doc course/introd"
+  },
+  "sidebar.courseSidebar.doc.Setup": {
+    "message": "Setup",
+    "description": "The label for the doc item Setup in sidebar courseSidebar, linking to the doc course/setup"
+  },
+  "sidebar.guidesSidebar.category.Guides": {
+    "message": "Guides",
+    "description": "The label for category Guides in sidebar guidesSidebar"
+  },
+  "sidebar.guidesSidebar.doc.Basics": {
+    "message": "Basics",
+    "description": "The label for the doc item Basics in sidebar guidesSidebar, linking to the doc guides/basics"
+  },
+  "sidebar.guidesSidebar.doc.Advanced Topics": {
+    "message": "Advanced Topics",
+    "description": "The label for the doc item Advanced Topics in sidebar guidesSidebar, linking to the doc guides/advanced"
+  }
+}

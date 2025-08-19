@@ -1,0 +1,28 @@
+{
+  "id": "crs2/mdl2/crs2mdl2lsn3",
+  "title": "Step 3 Reading the results page (visually similar images, related sites, timestamps)",
+  "description": "Step 1: Accessing It (Desktop vs. Mobile)",
+  "source": "@site/docs/crs2/mdl2/crs2mdl2lsn3.mdx",
+  "sourceDirName": "crs2/mdl2",
+  "slug": "/crs2mdl2lsn3",
+  "permalink": "/km/docs/crs2mdl2lsn3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/crs2/mdl2/crs2mdl2lsn3.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "crs2mdl2lsn3",
+    "title": "Step 3 Reading the results page (visually similar images, related sites, timestamps)",
+    "slug": "/crs2mdl2lsn3"
+  },
+  "sidebar": "course2",
+  "previous": {
+    "title": "Step 2: Uploading or pasting an image link",
+    "permalink": "/km/docs/crs2mdl2lsn2"
+  },
+  "next": {
+    "title": "Using keywords + reverse image search together",
+    "permalink": "/km/docs/crs2mdl3lsn1"
+  }
+}

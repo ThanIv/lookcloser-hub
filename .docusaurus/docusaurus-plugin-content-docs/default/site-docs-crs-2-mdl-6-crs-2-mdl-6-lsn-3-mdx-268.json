@@ -1,0 +1,24 @@
+{
+  "id": "crs2/mdl6/crs2mdl6lsn3",
+  "title": "Wrap-up",
+  "description": "Reverse image search won’t solve everything, but it gives us a powerful way to fact-check what we see online. The key is to stay curious, think critically, and double-check before sharing.",
+  "source": "@site/docs/crs2/mdl6/crs2mdl6lsn3.mdx",
+  "sourceDirName": "crs2/mdl6",
+  "slug": "/crs2mdl6lsn3",
+  "permalink": "/km/docs/crs2mdl6lsn3",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/crs2/mdl6/crs2mdl6lsn3.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "crs2mdl6lsn3",
+    "title": "Wrap-up",
+    "slug": "/crs2mdl6lsn3"
+  },
+  "sidebar": "course2",
+  "previous": {
+    "title": "Quiz",
+    "permalink": "/km/docs/crs2mdl6lsn2"
+  }
+}

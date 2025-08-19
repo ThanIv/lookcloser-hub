@@ -1,0 +1,19 @@
+{
+  "id": "crs1/mdl2/crs1mdl2lsn2",
+  "title": "Risks and harms (misinformation, fake news, cyberbullying, scams)",
+  "description": "",
+  "source": "@site/docs/crs1/mdl2/crs1mdl2lsn2.mdx",
+  "sourceDirName": "crs1/mdl2",
+  "slug": "/crs1mdl2lsn2",
+  "permalink": "/km/docs/crs1mdl2lsn2",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/crs1/mdl2/crs1mdl2lsn2.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "crs1mdl2lsn2",
+    "title": "Risks and harms (misinformation, fake news, cyberbullying, scams)",
+    "slug": "/crs1mdl2lsn2"
+  }
+}
