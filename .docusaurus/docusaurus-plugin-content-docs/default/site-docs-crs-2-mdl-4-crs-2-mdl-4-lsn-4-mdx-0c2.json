@@ -5,7 +5,7 @@
   "source": "@site/docs/crs2/mdl4/crs2mdl4lsn4.mdx",
   "sourceDirName": "crs2/mdl4",
   "slug": "/crs2mdl4lsn4",
-  "permalink": "/km/docs/crs2mdl4lsn4",
+  "permalink": "/docs/crs2mdl4lsn4",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/crs2/mdl4/crs2mdl4lsn4.mdx",
@@ -18,11 +18,11 @@
   },
   "sidebar": "course2",
   "previous": {
-    "title": "Academic/creative use (finding higher-resolution versions, tracking copyright use)",
-    "permalink": "/km/docs/crs2mdl4lsn3"
+    "title": "Academic/creative use",
+    "permalink": "/docs/crs2mdl4lsn3"
   },
   "next": {
     "title": "Google’s tool isn’t perfect",
-    "permalink": "/km/docs/crs2mdl5lsn1"
+    "permalink": "/docs/crs2mdl5lsn1"
   }
 }

@@ -10,12 +10,12 @@ export const course2Module4:any = {
     {
       type: 'doc',
       id: 'crs2/mdl4/crs2mdl4lsn2',
-      label: 'Spotting scams (fake profile pictures, product listings)',
+      label: 'Spotting scams',
     },
     {
       type: 'doc',
       id: 'crs2/mdl4/crs2mdl4lsn3',
-      label: 'Academic/creative use (finding higher-resolution versions, tracking copyright use)',
+      label: 'Academic/creative use',
     },
     {
       type: 'doc',
