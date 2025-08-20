@@ -8,21 +8,29 @@ import AboutSection from '../components/About';
 import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
-
+import Translate from '@docusaurus/Translate';
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
+  const {titleHeader} = siteConfig.customFields as {titleHeader: string}
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          {siteConfig.title}
+          <Translate id="siteConfig.titleHeader">
+            {titleHeader}
+          </Translate>
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        
+          <p className="hero__subtitle">
+            <Translate id="siteConfig.subtitle">
+              {siteConfig.tagline}
+            </Translate>
+          </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/about-us">
-            Learn more
+            <Translate>Learn more</Translate>
           </Link>
         </div>
       </div>
@@ -34,7 +42,7 @@ export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>

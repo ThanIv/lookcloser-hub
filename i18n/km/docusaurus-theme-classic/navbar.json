@@ -8,15 +8,15 @@
     "description": "The alt text of navbar logo"
   },
   "item.label.Resource": {
-    "message": "Resource",
+    "message": "ធនធាន",
     "description": "Navbar item with label Resource"
   },
   "item.label.Webinar": {
-    "message": "Webinar",
+    "message": "សិក្ខាសាលា",
     "description": "Navbar item with label Webinar"
   },
   "item.label.Blog": {
-    "message": "Blog",
+    "message": "ប្លុក",
     "description": "Navbar item with label Blog"
   },
   "item.label.All Posts": {

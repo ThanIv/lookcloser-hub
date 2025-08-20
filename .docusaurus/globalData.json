@@ -90,34 +90,20 @@
               "sidebar": "course2"
             },
             {
-              "id": "crs2/mdl2/crs2mdl2lsn2",
-              "path": "/docs/crs2mdl2lsn2",
-              "sidebar": "course2"
-            },
-            {
-              "id": "crs2/mdl2/crs2mdl2lsn3",
-              "path": "/docs/crs2mdl2lsn3",
-              "sidebar": "course2"
-            },
-            {
               "id": "crs2/mdl3/crs2mdl3lsn1",
-              "path": "/docs/crs2mdl3lsn1",
-              "sidebar": "course2"
+              "path": "/docs/crs2mdl3lsn1"
             },
             {
               "id": "crs2/mdl3/crs2mdl3lsn2",
-              "path": "/docs/crs2mdl3lsn2",
-              "sidebar": "course2"
+              "path": "/docs/crs2mdl3lsn2"
             },
             {
               "id": "crs2/mdl3/crs2mdl3lsn3",
-              "path": "/docs/crs2mdl3lsn3",
-              "sidebar": "course2"
+              "path": "/docs/crs2mdl3lsn3"
             },
             {
               "id": "crs2/mdl3/crs2mdl3lsn4",
-              "path": "/docs/crs2mdl3lsn4",
-              "sidebar": "course2"
+              "path": "/docs/crs2mdl3lsn4"
             },
             {
               "id": "crs2/mdl4/crs2mdl4lsn1",

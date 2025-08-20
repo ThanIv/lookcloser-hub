@@ -4,9 +4,10 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "Think Critically, Thrive Digitally",
+  "title": "LookCloser Hub",
   "tagline": "Encourages critical thinking as the foundation for confident and responsible engagement in the digital world, resonating with youth and educators alike.",
   "customFields": {
+    "titleHeader": "Think Critically, Thrive Digitally",
     "about": "About Us",
     "aboutDescription": "LookCloser Hub is a global Community of Practice for Media and Information Literacy (MIL). We create a shared space for educators, youth, media experts, and communities to learn and exchange best practices for MIL. Our platform provides simple tools and resources to spot misinformation and encourage safe online habits. Through social media campaigns and online sessions, we connect people worldwide to collaborate and grow. Our mission is to empower everyone to share and learn MIL best practices, building a digitally smart world with a focus on truth."
   },
@@ -102,6 +103,12 @@ export default {
           "to": "/blog",
           "label": "Blog",
           "position": "left"
+        },
+        {
+          "type": "localeDropdown",
+          "position": "right",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
         }
       ],
       "hideOnScroll": false

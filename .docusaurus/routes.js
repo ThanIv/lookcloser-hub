@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '9ed'),
+    component: ComponentCreator('/docs', '6a5'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '3da'),
+        component: ComponentCreator('/docs', '568'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '3f1'),
+            component: ComponentCreator('/docs', 'd26'),
             routes: [
               {
                 path: '/docs/crs1mdl1lsn1',
@@ -223,40 +223,24 @@ export default [
                 sidebar: "course2"
               },
               {
-                path: '/docs/crs2mdl2lsn2',
-                component: ComponentCreator('/docs/crs2mdl2lsn2', '520'),
-                exact: true,
-                sidebar: "course2"
-              },
-              {
-                path: '/docs/crs2mdl2lsn3',
-                component: ComponentCreator('/docs/crs2mdl2lsn3', '882'),
-                exact: true,
-                sidebar: "course2"
-              },
-              {
                 path: '/docs/crs2mdl3lsn1',
-                component: ComponentCreator('/docs/crs2mdl3lsn1', 'ab6'),
-                exact: true,
-                sidebar: "course2"
+                component: ComponentCreator('/docs/crs2mdl3lsn1', '0c2'),
+                exact: true
               },
               {
                 path: '/docs/crs2mdl3lsn2',
-                component: ComponentCreator('/docs/crs2mdl3lsn2', 'b18'),
-                exact: true,
-                sidebar: "course2"
+                component: ComponentCreator('/docs/crs2mdl3lsn2', '575'),
+                exact: true
               },
               {
                 path: '/docs/crs2mdl3lsn3',
-                component: ComponentCreator('/docs/crs2mdl3lsn3', '363'),
-                exact: true,
-                sidebar: "course2"
+                component: ComponentCreator('/docs/crs2mdl3lsn3', 'f71'),
+                exact: true
               },
               {
                 path: '/docs/crs2mdl3lsn4',
-                component: ComponentCreator('/docs/crs2mdl3lsn4', 'bcd'),
-                exact: true,
-                sidebar: "course2"
+                component: ComponentCreator('/docs/crs2mdl3lsn4', '784'),
+                exact: true
               },
               {
                 path: '/docs/crs2mdl4lsn1',
