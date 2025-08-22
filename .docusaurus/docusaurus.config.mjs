@@ -33,7 +33,7 @@ export default {
     "experimental_router": "browser"
   },
   "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/",
+  "baseUrl": "/km/",
   "organizationName": "facebook",
   "projectName": "docusaurus",
   "onBrokenLinks": "throw",
@@ -61,8 +61,7 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "sidebarPath": "./sidebars.ts"
         },
         "blog": {
           "showReadingTime": true,
@@ -73,7 +72,6 @@ export default {
             ],
             "xslt": true
           },
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
           "onInlineTags": "warn",
           "onInlineAuthors": "warn",
           "onUntruncatedBlogPosts": "warn"
@@ -91,17 +89,17 @@ export default {
       "items": [
         {
           "to": "/resource",
-          "label": "Resource",
+          "label": "ធនធាន",
           "position": "left"
         },
         {
           "to": "/webinar",
-          "label": "Webinar",
+          "label": "សិក្ខាសាលា",
           "position": "left"
         },
         {
           "to": "/blog",
-          "label": "Blog",
+          "label": "ប្លុក",
           "position": "left"
         },
         {
@@ -113,37 +111,29 @@ export default {
       ],
       "hideOnScroll": false
     },
+    "colorMode": {
+      "defaultMode": "light",
+      "disableSwitch": true,
+      "respectPrefersColorScheme": false
+    },
     "footer": {
       "style": "dark",
       "links": [
         {
-          "title": "Community",
+          "title": "សហគមន៍",
           "items": [
             {
-              "label": "Facebook",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Youtube",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
               "label": "Telegram",
-              "href": "https://x.com/docusaurus"
+              "href": "https://t.me/lookcloserhub"
             }
           ]
         },
         {
-          "title": "Others",
-          "items": [
-            {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
-            }
-          ]
+          "title": "ផ្សេងៗ",
+          "items": []
         }
       ],
-      "copyright": "Copyright © 2025 LookCloser Hub. Built with Docusaurus."
+      "copyright": "រក្សាសិទ្ធិ © 2025 LookCloser Hub. បង្កើតដោយប្រើប្រាស់ Docusaurus."
     },
     "prism": {
       "theme": {
@@ -348,11 +338,6 @@ export default {
           }
         }
       ]
-    },
-    "colorMode": {
-      "defaultMode": "light",
-      "disableSwitch": false,
-      "respectPrefersColorScheme": false
     },
     "docs": {
       "versionPersistence": "localStorage",

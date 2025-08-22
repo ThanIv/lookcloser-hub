@@ -3,6 +3,7 @@ import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Translate from '@docusaurus/Translate';
+import styles from './styles.module.css';
 
 export default function AboutSection(): React.ReactElement {
   const {siteConfig} = useDocusaurusContext();
@@ -15,15 +16,16 @@ export default function AboutSection(): React.ReactElement {
   return (
     <section className={clsx('hero')}>
       <div className="container">
-        <Heading as="h3" className="hero__title">
+        <h2>
           <Translate id="aboutUs.title">
             {about}
           </Translate>
-          </Heading>
-        <p className="hero__subtitle">
+        </h2>
+        <p className = {styles.paragraphFont}>
           <Translate id="aboutUs.subtitle">
             {aboutDescription}
-          </Translate></p>
+          </Translate>
+        </p>
       </div>
     </section>
   );

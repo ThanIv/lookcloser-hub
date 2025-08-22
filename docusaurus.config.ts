@@ -35,14 +35,6 @@ const config: Config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
-  // i18n: {
-  //   defaultLocale: 'en',
-  //   locales: ['en'],
-  // },
-
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'km'], // km = Khmer
@@ -62,10 +54,6 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
@@ -73,10 +61,6 @@ const config: Config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -114,76 +98,37 @@ const config: Config = {
           label: 'Blog', 
           position: 'left'
         },
-
-        // {
-        //   type: 'dropdown',
-        //   label: 'Blog',
-        //   position: 'left',
-        //   items: [
-        //     {
-        //       to: '/blog',
-        //       label: 'All Posts',
-        //     },
-        //     {
-        //       to: '/blog/categories',
-        //       label: 'Categories',
-        //     },
-        //     {
-        //       to: '/blog/tags',
-        //       label: 'Tags',
-        //     },
-        //   ],
-        // },
-        // {href: 'https://edufilebank.steeamhub.com', label: 'EduFileBank', position: 'left'},
-        // {
-        //   href: 'https://github.com/facebook/docusaurus',
-        //   label: 'GitHub',
-        //   position: 'right',
-        // },
-            // ✅ Add language switcher here
         {
           type: 'localeDropdown',
           position: 'right',
         },
       ],
     },
+    colorMode: {
+      defaultMode: 'light', // or 'dark' if you prefer dark mode
+      disableSwitch: true,   // Hides the toggle button
+      respectPrefersColorScheme: false, // Set to false to ignore system preferences
+    },
     footer: {
       style: 'dark',
       links: [
-        // {
-        //   title: 'Course',
-        //   // items: [
-        //   //   {
-        //   //     label: 'Tutorial',
-        //   //     to: '/docs/intro',
-        //   //   },
-        //   // ],
-        // },
         {
           title: 'Community',
           items: [
             {
-              label: 'Facebook',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Youtube',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
               label: 'Telegram',
-              href: 'https://x.com/docusaurus',
+              href: 'https://t.me/lookcloserhub',
             },
           ],
         },
         {
           title: 'Others',
-          items: [
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
+          // items: [
+          //   {
+          //     label: 'GitHub',
+          //     href: 'https://github.com/facebook/docusaurus',
+          //   },
+          // ],
         },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} LookCloser Hub. Built with Docusaurus.`,
@@ -193,10 +138,6 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
-
-  // clientModules: [
-  //   require.resolve('./src/theme/DocSidebarSwitch.tsx'), // Register client module
-  // ],
 
 };
 

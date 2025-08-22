@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: center;  /* Centers horizontally */
+  align-items: center;      /* Centers vertically */
+  height: 100vh;            /* Full screen height */
+  width: 100%;              /* Full screen width */
+  text-align: center;
+}
+
+.comingSoonText {
+  font-size: 2.5rem;
+  font-weight: bold;
+}

@@ -4,7 +4,7 @@
 
 .gridContainer {
   display: grid;
-  grid-template-columns: repeat(4, minmax(250px, 1fr));
+  grid-template-columns: repeat(5, minmax(250px, 1fr));
   gap: 20px;
   margin-bottom: 20px;
 }
@@ -39,20 +39,13 @@
 }
 
 .title {
-  font-size: 1.25rem;
+  font-size: 1rem;
   font-weight: 600;
   margin-bottom: 8px;
 }
 
-.descriptionList {
-  list-style-type: disc;
-  padding-left: 20px;
-  flex-grow: 1;
-}
-
-.descriptionItem {
-  color: #6b7280;
-  margin-bottom: 8px;
+.textDescription {
+  font-size: 0.9rem;
 }
 
 .tagContainer {
@@ -63,7 +56,7 @@
   display: inline-block;
   background-color: #f3f4f6;
   color: #374151;
-  font-size: 0.875rem;
+  font-size: 0.8rem;
   padding: 4px 12px;
   border-radius: 9999px;
 }
@@ -91,97 +84,3 @@
 .activeButton:hover {
   background-color: #d1d5db;
 }
-
-
-/* .features {
-  background-color: #fff;
-}
-
-.gridContainer {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 20px;
-  margin-bottom: 20px;
-}
-
-.gridItem {
-  display: flex;
-  flex-direction: column;
-  border: 1px solid #e5e7eb;
-  border-radius: 8px;
-  padding: 16px;
-  background-color: #fff;
-  text-decoration: none;
-  color: inherit;
-}
-
-.card {
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-.cardHover:hover {
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  transition: box-shadow 0.3s ease;
-}
-
-.image {
-  width: 100%;
-  height: 128px;
-  object-fit: cover;
-  border-radius: 4px;
-  margin-bottom: 16px;
-}
-
-.title {
-  font-size: 1.25rem;
-  font-weight: 600;
-  margin-bottom: 8px;
-}
-
-.descriptionList {
-  list-style-type: disc;
-  padding-left: 20px;
-  flex-grow: 1;
-}
-
-.descriptionItem {
-  color: #6b7280;
-  margin-bottom: 8px;
-}
-
-.tagContainer {
-  margin-top: auto;
-}
-
-.tag {
-  display: inline-block;
-  background-color: #f3f4f6;
-  color: #374151;
-  font-size: 0.875rem;
-  padding: 4px 12px;
-  border-radius: 9999px;
-}
-
-.pagination {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 16px;
-}
-
-.pageInfo {
-  color: #6b7280;
-}
-
-.disabledButton {
-  opacity: 0.5;
-  cursor: not-allowed;
-}
-
-.activeButton {
-  background-color: #e5e7eb;
-}
-
-.activeButton:hover {
-  background-color: #d1d5db;
-} */

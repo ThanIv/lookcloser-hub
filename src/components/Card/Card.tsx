@@ -9,7 +9,7 @@ interface CardProps {
   heading: string;
 }
 
-const ITEMS_PER_PAGE = 12
+const ITEMS_PER_PAGE = 10
 
 export function Card({ cardContents, heading }: CardProps) {
   const [currentPage, setCurrentPage] = useState(1);
@@ -54,9 +54,9 @@ export function Card({ cardContents, heading }: CardProps) {
               <h3 className={clsx(styles.title, 'margin-bottom--sm')}>
                 {cardContent.title}
               </h3>
-              <p>
-                {cardContent.desciption}
-              </p>
+              {/* <p className={styles.textDescription}>
+                {cardContent.description}
+              </p> */}
               <div className={styles.tagContainer}>
                 <span className={styles.tag}>
                   {cardContent.tag}

@@ -126,5 +126,9 @@
   "sidebar.course2.doc.Wrap-up": {
     "message": "Wrap-up",
     "description": "The label for the doc item Wrap-up in sidebar course2, linking to the doc crs2/mdl6/crs2mdl6lsn3"
+  },
+  "sidebar.course2.doc.3 Steps - How to Use Google Reverse Image Search": {
+    "message": "3 Steps - How to Use Google Reverse Image Search",
+    "description": "The label for the doc item 3 Steps - How to Use Google Reverse Image Search in sidebar course2, linking to the doc crs2/mdl2/crs2mdl2lsn1"
   }
 }

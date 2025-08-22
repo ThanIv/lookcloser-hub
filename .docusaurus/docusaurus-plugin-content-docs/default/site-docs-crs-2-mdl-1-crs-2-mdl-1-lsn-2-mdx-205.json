@@ -5,10 +5,9 @@
   "source": "@site/docs/crs2/mdl1/crs2mdl1lsn2.mdx",
   "sourceDirName": "crs2/mdl1",
   "slug": "/crs2mdl1lsn2",
-  "permalink": "/docs/crs2mdl1lsn2",
+  "permalink": "/km/docs/crs2mdl1lsn2",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/crs2/mdl1/crs2mdl1lsn2.mdx",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -19,10 +18,10 @@
   "sidebar": "course2",
   "previous": {
     "title": "What is Reverse Image Search?",
-    "permalink": "/docs/crs2mdl1lsn1"
+    "permalink": "/km/docs/crs2mdl1lsn1"
   },
   "next": {
     "title": "3 Steps - How to Use Google Reverse Image Search",
-    "permalink": "/docs/crs2mdl2lsn1"
+    "permalink": "/km/docs/crs2mdl2lsn1"
   }
 }

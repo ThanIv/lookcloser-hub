@@ -5,10 +5,9 @@
   "source": "@site/docs/crs2/mdl2/crs2mdl2lsn1.mdx",
   "sourceDirName": "crs2/mdl2",
   "slug": "/crs2mdl2lsn1",
-  "permalink": "/docs/crs2mdl2lsn1",
+  "permalink": "/km/docs/crs2mdl2lsn1",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/crs2/mdl2/crs2mdl2lsn1.mdx",
   "tags": [],
   "version": "current",
   "frontMatter": {
@@ -19,10 +18,10 @@
   "sidebar": "course2",
   "previous": {
     "title": "When to use it",
-    "permalink": "/docs/crs2mdl1lsn2"
+    "permalink": "/km/docs/crs2mdl1lsn2"
   },
   "next": {
     "title": "Fact-checking news and social media",
-    "permalink": "/docs/crs2mdl4lsn1"
+    "permalink": "/km/docs/crs2mdl4lsn1"
   }
 }
