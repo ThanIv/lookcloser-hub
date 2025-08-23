@@ -5,7 +5,7 @@
   "source": "@site/docs/crs2/mdl5/crs2mdl5lsn1.mdx",
   "sourceDirName": "crs2/mdl5",
   "slug": "/crs2mdl5lsn1",
-  "permalink": "/km/docs/crs2mdl5lsn1",
+  "permalink": "/docs/crs2mdl5lsn1",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,11 +17,11 @@
   },
   "sidebar": "course2",
   "previous": {
-    "title": "Case studies",
-    "permalink": "/km/docs/crs2mdl4lsn4"
+    "title": "Academic/creative use",
+    "permalink": "/docs/crs2mdl4lsn3"
   },
   "next": {
     "title": "What We Learned",
-    "permalink": "/km/docs/crs2mdl6lsn1"
+    "permalink": "/docs/crs2mdl6lsn1"
   }
 }

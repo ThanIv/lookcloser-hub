@@ -17,10 +17,5 @@ export const course2Module4:any = {
       id: 'crs2/mdl4/crs2mdl4lsn3',
       label: 'Academic/creative use',
     },
-    {
-      type: 'doc',
-      id: 'crs2/mdl4/crs2mdl4lsn4',
-      label: 'Case studies',
-    },
   ],
 };

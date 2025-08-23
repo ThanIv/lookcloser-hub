@@ -1,0 +1,62 @@
+{
+  "permalink": "/km/blog/how-to-spot-sake-news-in-3-easy-steps",
+  "source": "@site/i18n/km/docusaurus-plugin-content-blog/2025-08-20-how-to-spot-sake-news-in-3-easy-steps.mdx",
+  "title": "ប្រើប្រាស់ ៣ ជំហាននេះដើម្បីកំណត់សម្គាល់ព័ត៌មានក្លែងក្លាយ",
+  "description": "ពួកយើងតែងឃើញនៅចំណងជើងនៃការបង្ហោះ ឬអត្ថបទដែលមើលទៅដូចជាការពិត។ ការបង្ហោះដែលត្រូវបានចែករំលែកដ៏ច្រើនសន្ធឹក ឬព័ត៍មានថ្មីៗដែលសាច់ញាតិរបស់យើងបានចែករំលែកដែលពួកគេអះអាងថាជាការពិត។ ប៉ុន្តែគ្រប់យ៉ាងនៅលើ Online មិនមែនមានន័យថាវាជាការពិតទាំងអស់នោះទេ។ ជាក់ស្តែងទៅ ព័ត៍មានក្លែងក្លាយត្រូវបានចែកចាយបន្តលឿនជាងព័ត៍មានពិត ព្រោះវាត្រូវបានបង្កើតទ្បើងដើម្បីទទួលបានការចាប់អារម្មណ៍។",
+  "date": "2025-08-20T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "MediaLiteracy",
+      "permalink": "/km/blog/tags/mediaLiteracy",
+      "description": "MediaLiteracy tag description"
+    },
+    {
+      "inline": false,
+      "label": "FactChecking",
+      "permalink": "/km/blog/tags/factChecking",
+      "description": "FactChecking tag description"
+    },
+    {
+      "inline": false,
+      "label": "OnlineMyths",
+      "permalink": "/km/blog/tags/onlineMyths",
+      "description": "OnlineMyths tag description"
+    },
+    {
+      "inline": false,
+      "label": "FakeNews",
+      "permalink": "/km/blog/tags/fakeNews",
+      "description": "FakeNews tag description"
+    }
+  ],
+  "readingTime": 2.62,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "LookCloser Hub",
+      "title": "LookCloser Hub, Community",
+      "url": "https://linkedin.com/in/yangshun",
+      "key": "LookCloser_Hub",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "how-to-spot-sake-news-in-3-easy-steps",
+    "title": "ប្រើប្រាស់ ៣ ជំហាននេះដើម្បីកំណត់សម្គាល់ព័ត៌មានក្លែងក្លាយ",
+    "authors": [
+      "LookCloser_Hub"
+    ],
+    "tags": [
+      "mediaLiteracy",
+      "factChecking",
+      "onlineMyths",
+      "fakeNews"
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "គេហទំព័រល្អចំនួន ៥ សម្រាប់រៀនពីអក្ខរកម្មប្រព័ន្ធផ្សព្វផ្សាយ និង ព័ត៌មាន",
+    "permalink": "/km/blog/5-cool-sites-to-learn-about-media-and-information-literacy"
+  }
+}

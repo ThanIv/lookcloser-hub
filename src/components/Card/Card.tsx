@@ -3,6 +3,7 @@ import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 import { useState } from 'react';
 import { CardItem } from '@site/src/types';
+import Translate from '@docusaurus/Translate';
 
 interface CardProps {
   cardContents: CardItem[];

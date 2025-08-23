@@ -1,6 +1,6 @@
 export const course2Module1: any = {
   type: 'category',
-  label: 'Introduction to Reverse Image Search',
+  label:'Introduction to Reverse Image Search',
   items: [
     {
       type: 'doc',

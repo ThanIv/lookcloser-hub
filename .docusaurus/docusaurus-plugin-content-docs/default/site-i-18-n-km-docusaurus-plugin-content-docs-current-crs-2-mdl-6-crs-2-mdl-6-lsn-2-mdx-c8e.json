@@ -1,0 +1,27 @@
+{
+  "id": "crs2/mdl6/crs2mdl6lsn2",
+  "title": "សំនួរ",
+  "description": "សូមសាកល្បងឆ្លើយនឹងសំនួរខាងក្រោម",
+  "source": "@site/i18n/km/docusaurus-plugin-content-docs/current/crs2/mdl6/crs2mdl6lsn2.mdx",
+  "sourceDirName": "crs2/mdl6",
+  "slug": "/crs2mdl6lsn2",
+  "permalink": "/km/docs/crs2mdl6lsn2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "crs2mdl6lsn2",
+    "title": "សំនួរ",
+    "slug": "/crs2mdl6lsn2"
+  },
+  "sidebar": "course2",
+  "previous": {
+    "title": "What We Learned",
+    "permalink": "/km/docs/crs2mdl6lsn1"
+  },
+  "next": {
+    "title": "Wrap-up",
+    "permalink": "/km/docs/crs2mdl6lsn3"
+  }
+}

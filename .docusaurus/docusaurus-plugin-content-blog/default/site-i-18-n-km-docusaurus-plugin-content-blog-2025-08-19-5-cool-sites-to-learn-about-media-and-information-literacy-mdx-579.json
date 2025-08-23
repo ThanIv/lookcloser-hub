@@ -1,0 +1,66 @@
+{
+  "permalink": "/km/blog/5-cool-sites-to-learn-about-media-and-information-literacy",
+  "source": "@site/i18n/km/docusaurus-plugin-content-blog/2025-08-19-5-cool-sites-to-learn-about-media-and-information-literacy.mdx",
+  "title": "គេហទំព័រល្អចំនួន ៥ សម្រាប់រៀនពីអក្ខរកម្មប្រព័ន្ធផ្សព្វផ្សាយ និង ព័ត៌មាន",
+  "description": "យើងអាចនឹងចំណាយពេលជាច្រើននៅលើ Online ដូចជាការប្រើប្រាស់ បណ្តាញសង្គម មើលវីដេអូ អានព័ត៌មាន ឬគ្រាន់តែស្វែងរកអ្វីមួយនៅលើ Google។ ប៉ុន្តែតាមពិតទៅ អ្វីដែលយើងឃើញគឺមិនមែនសុទ្ធតែពិតប្រាកដឬអាចទុកចិត្តបានទាំងអស់នោះទេ។  ហេតុនេះហើយ បានជាយើងត្រូវការចំណេះដឹងលើប្រព័ន្ធផ្សព្វផ្សាយ និងព័ត៌មាន (Media and Information Literacy)។ ជាទូទៅជំនាញនេះ ជួយអោយយើងអាចកំណត់បានថាតើអ្វីដែលយើងឃើញនេះវាជាព័ត៌មានក្លែងក្លាយដែរឬទេ។ វាជួយអោយយើងអាចគិត ឬពិចារណាបានល្អិតល្អន់ជាងមុន។",
+  "date": "2025-08-19T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "MediaLiteracy",
+      "permalink": "/km/blog/tags/mediaLiteracy",
+      "description": "MediaLiteracy tag description"
+    },
+    {
+      "inline": false,
+      "label": "FactChecking",
+      "permalink": "/km/blog/tags/factChecking",
+      "description": "FactChecking tag description"
+    },
+    {
+      "inline": false,
+      "label": "OnlineMyths",
+      "permalink": "/km/blog/tags/onlineMyths",
+      "description": "OnlineMyths tag description"
+    },
+    {
+      "inline": false,
+      "label": "FakeNews",
+      "permalink": "/km/blog/tags/fakeNews",
+      "description": "FakeNews tag description"
+    }
+  ],
+  "readingTime": 2.51,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "LookCloser Hub",
+      "title": "LookCloser Hub, Community",
+      "url": "https://linkedin.com/in/yangshun",
+      "key": "LookCloser_Hub",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "5-cool-sites-to-learn-about-media-and-information-literacy",
+    "title": "គេហទំព័រល្អចំនួន ៥ សម្រាប់រៀនពីអក្ខរកម្មប្រព័ន្ធផ្សព្វផ្សាយ និង ព័ត៌មាន",
+    "authors": [
+      "LookCloser_Hub"
+    ],
+    "tags": [
+      "mediaLiteracy",
+      "factChecking",
+      "onlineMyths",
+      "fakeNews"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "ប្រើប្រាស់ ៣ ជំហាននេះដើម្បីកំណត់សម្គាល់ព័ត៌មានក្លែងក្លាយ",
+    "permalink": "/km/blog/how-to-spot-sake-news-in-3-easy-steps"
+  },
+  "nextItem": {
+    "title": "ការគិតភាន់ច្រទ្បំទាំង 5 ដែលយើងតែងជឿនៅលើ Online (និងរបៀបពិនិត្យរកការពិត)",
+    "permalink": "/km/blog/5-common-myths-we-believe-online"
+  }
+}

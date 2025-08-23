@@ -1,0 +1,27 @@
+{
+  "id": "crs2/mdl6/crs2mdl6lsn1",
+  "title": "អ្វីដែលយើងបានរៀន",
+  "description": "យើងចាប់ផ្តើមជាមួយនឹងមូលដ្ឋាន - តើការស្វែងរកប្រភពដើមនៃរូបភាពគឺជាអ្វី ហើយហេតុអ្វីវាសំខាន់។ បន្ទាប់​មក​យើង​បាន​អនុវត្ត​របៀប​ប្រើ​វា​ជា​ជំហានៗ។ យើងបានលើកយកឧទារហ៍ក្នុងករណីជាក់ស្តែង៖ ការស្វែងរកព័ត៌មានក្លែងក្លាយ ការបោកប្រាស់ និងការប្រើប្រាស់រូបភាពក្នុងផ្លូវមិនត្រឹមត្រូវ។ ជាចុងក្រោយ យើងបានស្វែងយល់អំពីដែនកំណត់នៃ Image Reverse Search ជាមួយ Google និងជម្រើសនៃឧបករណ៍ផ្សេងទៀត។",
+  "source": "@site/i18n/km/docusaurus-plugin-content-docs/current/crs2/mdl6/crs2mdl6lsn1.mdx",
+  "sourceDirName": "crs2/mdl6",
+  "slug": "/crs2mdl6lsn1",
+  "permalink": "/km/docs/crs2mdl6lsn1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "crs2mdl6lsn1",
+    "title": "អ្វីដែលយើងបានរៀន",
+    "slug": "/crs2mdl6lsn1"
+  },
+  "sidebar": "course2",
+  "previous": {
+    "title": "Google’s tool isn’t perfect",
+    "permalink": "/km/docs/crs2mdl5lsn1"
+  },
+  "next": {
+    "title": "Quiz",
+    "permalink": "/km/docs/crs2mdl6lsn2"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "crs2/mdl4/crs2mdl4lsn3",
+  "title": "ប្រើប្រាស់ សម្រាប់ Academic/creative",
+  "description": "សិស្ស អ្នកស្រាវជ្រាវ និងសិល្បករក៏ទទួលបានអត្ថប្រយោជន៍ផងដែរ។ អ្នកអាចស្វែងរករូបភាពដែលមានគុណភាពខ្ពស់នៃរូបភាពដែលអ្នកស្វែងរក ឬអ្នកអាចតាមដានថាតើការងាររបស់អ្នកត្រូវបានប្រើប្រាស់ឡើងវិញ ឬរំលោភលើការរក្សាកម្មសិទ្ធិបញ្ញាដែរឬទេ ឬដើម្បីជៀសវាងការលួចចម្លងដោយមិនដឹងខ្លួន។",
+  "source": "@site/i18n/km/docusaurus-plugin-content-docs/current/crs2/mdl4/crs2mdl4lsn3.mdx",
+  "sourceDirName": "crs2/mdl4",
+  "slug": "/crs2mdl4lsn3",
+  "permalink": "/km/docs/crs2mdl4lsn3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "crs2mdl4lsn3",
+    "title": "ប្រើប្រាស់ សម្រាប់ Academic/creative",
+    "slug": "/crs2mdl4lsn3"
+  },
+  "sidebar": "course2",
+  "previous": {
+    "title": "Spotting scams",
+    "permalink": "/km/docs/crs2mdl4lsn2"
+  },
+  "next": {
+    "title": "Google’s tool isn’t perfect",
+    "permalink": "/km/docs/crs2mdl5lsn1"
+  }
+}

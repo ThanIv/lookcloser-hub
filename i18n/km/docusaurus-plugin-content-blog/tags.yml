@@ -1,0 +1,18 @@
+factChecking:
+  label: FactChecking
+  permalink: /factChecking
+  description: FactChecking tag description
+mediaLiteracy:
+  label: MediaLiteracy
+  permalink: /mediaLiteracy
+  description: MediaLiteracy tag description
+
+onlineMyths:
+  label: OnlineMyths
+  permalink: /onlineMyths
+  description: OnlineMyths tag description
+
+fakeNews:
+  label: FakeNews
+  permalink: /fakeNews
+  description: FakeNews tag description

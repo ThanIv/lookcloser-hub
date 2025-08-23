@@ -1,0 +1,18 @@
+{
+  "id": "crs2/mdl3/crs2mdl3lsn2",
+  "title": "Checking the time filter (when the image first appeared)",
+  "description": "Click on Tools under the Google Images bar, then select Time. This lets you filter results by date. If you want to know when an image first appeared, look for the earliest date. This is especially useful to detect recycled old photos used as ‘breaking news’.",
+  "source": "@site/i18n/km/docusaurus-plugin-content-docs/current/crs2/mdl3/crs2mdl3lsn2.mdx",
+  "sourceDirName": "crs2/mdl3",
+  "slug": "/crs2mdl3lsn2",
+  "permalink": "/km/docs/crs2mdl3lsn2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "crs2mdl3lsn2",
+    "title": "Checking the time filter (when the image first appeared)",
+    "slug": "/crs2mdl3lsn2"
+  }
+}

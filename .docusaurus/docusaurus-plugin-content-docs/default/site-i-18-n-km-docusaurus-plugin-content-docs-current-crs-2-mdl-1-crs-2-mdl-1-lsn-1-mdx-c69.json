@@ -1,0 +1,23 @@
+{
+  "id": "crs2/mdl1/crs2mdl1lsn1",
+  "title": "តើអ្វីទៅជា Reverse Image Search?",
+  "description": "សូមស្វាគមន៍មកកាន់ Module 1. នៅក្នុងវគ្គនេះ យើងនឹងស្វែងយល់ពីរបៀបស្វែងរកប្រភពដើមរូបភាពដែលអាចជួយអោយយើងផ្ទៀងផ្ទាត់អ្វីដែលយើងឃើញនៅលើអ៊ីនធឺណិត។",
+  "source": "@site/i18n/km/docusaurus-plugin-content-docs/current/crs2/mdl1/crs2mdl1lsn1.mdx",
+  "sourceDirName": "crs2/mdl1",
+  "slug": "/crs2mdl1lsn1",
+  "permalink": "/km/docs/crs2mdl1lsn1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "crs2mdl1lsn1",
+    "title": "តើអ្វីទៅជា Reverse Image Search?",
+    "slug": "/crs2mdl1lsn1"
+  },
+  "sidebar": "course2",
+  "next": {
+    "title": "When to use it",
+    "permalink": "/km/docs/crs2mdl1lsn2"
+  }
+}

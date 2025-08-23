@@ -1,5 +1,5 @@
 {
-  "/km/blog-474": {
+  "/km/blog-676": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
@@ -7,18 +7,18 @@
     "sidebar": "814f3328",
     "items": [
       {
-        "content": "7b21395a"
+        "content": "4bc7172f"
       },
       {
-        "content": "60b3546d"
+        "content": "b1e0b3ec"
       },
       {
-        "content": "784b3d91"
+        "content": "3332885d"
       }
     ],
     "__props": "ef4613c6"
   },
-  "/km/blog/5-common-myths-we-believe-online-b4c": {
+  "/km/blog/5-common-myths-we-believe-online-65e": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -27,9 +27,9 @@
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "content": "fbe089b4"
+    "content": "1b5816e8"
   },
-  "/km/blog/5-cool-sites-to-learn-about-media-and-information-literacy-14d": {
+  "/km/blog/5-cool-sites-to-learn-about-media-and-information-literacy-ccd": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -38,7 +38,7 @@
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "content": "5e47a5e7"
+    "content": "579348d8"
   },
   "/km/blog/archive-b87": {
     "__comp": "9e4087bc",
@@ -58,7 +58,7 @@
     "sidebar": "814f3328",
     "__props": "0528220e"
   },
-  "/km/blog/how-to-spot-sake-news-in-3-easy-steps-d95": {
+  "/km/blog/how-to-spot-sake-news-in-3-easy-steps-0a4": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -67,7 +67,7 @@
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "content": "b651cb18"
+    "content": "2ae8834d"
   },
   "/km/blog/tags-607": {
     "__comp": "01a85c17",
@@ -77,7 +77,7 @@
     "sidebar": "814f3328",
     "__props": "992fead3"
   },
-  "/km/blog/tags/factChecking-7e1": {
+  "/km/blog/tags/factChecking-2d3": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -85,18 +85,18 @@
     "sidebar": "814f3328",
     "items": [
       {
-        "content": "7b21395a"
+        "content": "4bc7172f"
       },
       {
-        "content": "60b3546d"
+        "content": "b1e0b3ec"
       },
       {
-        "content": "784b3d91"
+        "content": "3332885d"
       }
     ],
     "__props": "dbe90a66"
   },
-  "/km/blog/tags/fakeNews-989": {
+  "/km/blog/tags/fakeNews-7e3": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -104,18 +104,18 @@
     "sidebar": "814f3328",
     "items": [
       {
-        "content": "7b21395a"
+        "content": "4bc7172f"
       },
       {
-        "content": "60b3546d"
+        "content": "b1e0b3ec"
       },
       {
-        "content": "784b3d91"
+        "content": "3332885d"
       }
     ],
     "__props": "351c9b84"
   },
-  "/km/blog/tags/mediaLiteracy-193": {
+  "/km/blog/tags/mediaLiteracy-2e7": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -123,18 +123,18 @@
     "sidebar": "814f3328",
     "items": [
       {
-        "content": "7b21395a"
+        "content": "4bc7172f"
       },
       {
-        "content": "60b3546d"
+        "content": "b1e0b3ec"
       },
       {
-        "content": "784b3d91"
+        "content": "3332885d"
       }
     ],
     "__props": "3442aae5"
   },
-  "/km/blog/tags/onlineMyths-199": {
+  "/km/blog/tags/onlineMyths-1a6": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -142,13 +142,13 @@
     "sidebar": "814f3328",
     "items": [
       {
-        "content": "7b21395a"
+        "content": "4bc7172f"
       },
       {
-        "content": "60b3546d"
+        "content": "b1e0b3ec"
       },
       {
-        "content": "784b3d91"
+        "content": "3332885d"
       }
     ],
     "__props": "4c34f869"
@@ -181,17 +181,17 @@
     },
     "config": "5e9f5e1a"
   },
-  "/km/docs-dfa": {
+  "/km/docs-1c6": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/km/docs-c9f": {
+  "/km/docs-fc2": {
     "__comp": "a7bd4aaa",
     "__props": "37b8501c"
   },
-  "/km/docs-7a9": {
+  "/km/docs-878": {
     "__comp": "a94703ab"
   },
   "/km/docs/crs1mdl1lsn1-ca9": {
@@ -258,65 +258,61 @@
     "__comp": "17896441",
     "content": "0c7bc61e"
   },
-  "/km/docs/crs2mdl1lsn1-ded": {
+  "/km/docs/crs2mdl1lsn1-298": {
     "__comp": "17896441",
-    "content": "d2043ab9"
+    "content": "c6943313"
   },
-  "/km/docs/crs2mdl1lsn2-324": {
+  "/km/docs/crs2mdl1lsn2-2bf": {
     "__comp": "17896441",
-    "content": "205000b0"
+    "content": "60d1ef68"
   },
-  "/km/docs/crs2mdl2lsn1-e0c": {
+  "/km/docs/crs2mdl2lsn1-db5": {
     "__comp": "17896441",
-    "content": "ad60ede2"
+    "content": "0591ced1"
   },
-  "/km/docs/crs2mdl3lsn1-81e": {
+  "/km/docs/crs2mdl3lsn1-253": {
     "__comp": "17896441",
-    "content": "c270bd5a"
+    "content": "4bd688e2"
   },
-  "/km/docs/crs2mdl3lsn2-297": {
+  "/km/docs/crs2mdl3lsn2-499": {
     "__comp": "17896441",
-    "content": "6facb98b"
+    "content": "006e30c4"
   },
-  "/km/docs/crs2mdl3lsn3-094": {
+  "/km/docs/crs2mdl3lsn3-ab9": {
     "__comp": "17896441",
-    "content": "573eee79"
+    "content": "731086d2"
   },
-  "/km/docs/crs2mdl3lsn4-8c7": {
+  "/km/docs/crs2mdl3lsn4-1f9": {
     "__comp": "17896441",
-    "content": "3d60caef"
+    "content": "d86e0796"
   },
-  "/km/docs/crs2mdl4lsn1-290": {
+  "/km/docs/crs2mdl4lsn1-ae9": {
     "__comp": "17896441",
-    "content": "3b5d708c"
+    "content": "ff251fd1"
   },
-  "/km/docs/crs2mdl4lsn2-715": {
+  "/km/docs/crs2mdl4lsn2-b2a": {
     "__comp": "17896441",
-    "content": "d61488ba"
+    "content": "0c9a5b5d"
   },
-  "/km/docs/crs2mdl4lsn3-0e7": {
+  "/km/docs/crs2mdl4lsn3-6f1": {
     "__comp": "17896441",
-    "content": "24321179"
+    "content": "e607692d"
   },
-  "/km/docs/crs2mdl4lsn4-b6d": {
+  "/km/docs/crs2mdl5lsn1-4bb": {
     "__comp": "17896441",
-    "content": "0c26878e"
+    "content": "3c6fa317"
   },
-  "/km/docs/crs2mdl5lsn1-da2": {
+  "/km/docs/crs2mdl6lsn1-aba": {
     "__comp": "17896441",
-    "content": "84e96e38"
+    "content": "7ac2732c"
   },
-  "/km/docs/crs2mdl6lsn1-d39": {
+  "/km/docs/crs2mdl6lsn2-0e0": {
     "__comp": "17896441",
-    "content": "cefc4239"
+    "content": "c8ed0cdb"
   },
-  "/km/docs/crs2mdl6lsn2-36a": {
+  "/km/docs/crs2mdl6lsn3-c30": {
     "__comp": "17896441",
-    "content": "6d8d26d3"
-  },
-  "/km/docs/crs2mdl6lsn3-f1d": {
-    "__comp": "17896441",
-    "content": "268f4533"
+    "content": "999a44cc"
   },
   "/km/-1f7": {
     "__comp": "1df93b7f",

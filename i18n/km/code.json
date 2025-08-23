@@ -354,5 +354,15 @@
   },
     "homepage.feature.blog.description": {
     "message": "ប្លុកគឺជាកន្លែងសម្រាប់ចែករំលែកគន្លឹះខ្លីៗ ការយល់ដឹង និងគំនិតស្តីពីប្រព័ន្ធផ្សព្វផ្សាយ និងចំណេះដឹងព័ត៌មាន។ វាជាមេរៀនខ្លីៗ ការឆ្លុះបញ្ចាំងពីគំនិតផ្សេងៗ ដែលផ្តល់ភាពងាយស្រួលដល់អ្នកអាន។"
+  },
+  "sidebar.course2Module1.label": {
+    "message": "ការណែនាំអំពី Reverse Image Search" 
+  },
+  "cardRow.heading": {
+    "message": "បញ្ជីធនធាន"
+  },
+  "cardRow.button": {
+    "message": "បង្ហាញទាំងអស់"
   }
+
 }

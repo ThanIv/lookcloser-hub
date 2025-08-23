@@ -4,17 +4,17 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/km/blog',
-    component: ComponentCreator('/km/blog', '474'),
+    component: ComponentCreator('/km/blog', '676'),
     exact: true
   },
   {
     path: '/km/blog/5-common-myths-we-believe-online',
-    component: ComponentCreator('/km/blog/5-common-myths-we-believe-online', 'b4c'),
+    component: ComponentCreator('/km/blog/5-common-myths-we-believe-online', '65e'),
     exact: true
   },
   {
     path: '/km/blog/5-cool-sites-to-learn-about-media-and-information-literacy',
-    component: ComponentCreator('/km/blog/5-cool-sites-to-learn-about-media-and-information-literacy', '14d'),
+    component: ComponentCreator('/km/blog/5-cool-sites-to-learn-about-media-and-information-literacy', 'ccd'),
     exact: true
   },
   {
@@ -29,7 +29,7 @@ export default [
   },
   {
     path: '/km/blog/how-to-spot-sake-news-in-3-easy-steps',
-    component: ComponentCreator('/km/blog/how-to-spot-sake-news-in-3-easy-steps', 'd95'),
+    component: ComponentCreator('/km/blog/how-to-spot-sake-news-in-3-easy-steps', '0a4'),
     exact: true
   },
   {
@@ -39,22 +39,22 @@ export default [
   },
   {
     path: '/km/blog/tags/factChecking',
-    component: ComponentCreator('/km/blog/tags/factChecking', '7e1'),
+    component: ComponentCreator('/km/blog/tags/factChecking', '2d3'),
     exact: true
   },
   {
     path: '/km/blog/tags/fakeNews',
-    component: ComponentCreator('/km/blog/tags/fakeNews', '989'),
+    component: ComponentCreator('/km/blog/tags/fakeNews', '7e3'),
     exact: true
   },
   {
     path: '/km/blog/tags/mediaLiteracy',
-    component: ComponentCreator('/km/blog/tags/mediaLiteracy', '193'),
+    component: ComponentCreator('/km/blog/tags/mediaLiteracy', '2e7'),
     exact: true
   },
   {
     path: '/km/blog/tags/onlineMyths',
-    component: ComponentCreator('/km/blog/tags/onlineMyths', '199'),
+    component: ComponentCreator('/km/blog/tags/onlineMyths', '1a6'),
     exact: true
   },
   {
@@ -79,15 +79,15 @@ export default [
   },
   {
     path: '/km/docs',
-    component: ComponentCreator('/km/docs', 'dfa'),
+    component: ComponentCreator('/km/docs', '1c6'),
     routes: [
       {
         path: '/km/docs',
-        component: ComponentCreator('/km/docs', 'c9f'),
+        component: ComponentCreator('/km/docs', 'fc2'),
         routes: [
           {
             path: '/km/docs',
-            component: ComponentCreator('/km/docs', '7a9'),
+            component: ComponentCreator('/km/docs', '878'),
             routes: [
               {
                 path: '/km/docs/crs1mdl1lsn1',
@@ -171,87 +171,81 @@ export default [
               },
               {
                 path: '/km/docs/crs2mdl1lsn1',
-                component: ComponentCreator('/km/docs/crs2mdl1lsn1', 'ded'),
+                component: ComponentCreator('/km/docs/crs2mdl1lsn1', '298'),
                 exact: true,
                 sidebar: "course2"
               },
               {
                 path: '/km/docs/crs2mdl1lsn2',
-                component: ComponentCreator('/km/docs/crs2mdl1lsn2', '324'),
+                component: ComponentCreator('/km/docs/crs2mdl1lsn2', '2bf'),
                 exact: true,
                 sidebar: "course2"
               },
               {
                 path: '/km/docs/crs2mdl2lsn1',
-                component: ComponentCreator('/km/docs/crs2mdl2lsn1', 'e0c'),
+                component: ComponentCreator('/km/docs/crs2mdl2lsn1', 'db5'),
                 exact: true,
                 sidebar: "course2"
               },
               {
                 path: '/km/docs/crs2mdl3lsn1',
-                component: ComponentCreator('/km/docs/crs2mdl3lsn1', '81e'),
+                component: ComponentCreator('/km/docs/crs2mdl3lsn1', '253'),
                 exact: true
               },
               {
                 path: '/km/docs/crs2mdl3lsn2',
-                component: ComponentCreator('/km/docs/crs2mdl3lsn2', '297'),
+                component: ComponentCreator('/km/docs/crs2mdl3lsn2', '499'),
                 exact: true
               },
               {
                 path: '/km/docs/crs2mdl3lsn3',
-                component: ComponentCreator('/km/docs/crs2mdl3lsn3', '094'),
+                component: ComponentCreator('/km/docs/crs2mdl3lsn3', 'ab9'),
                 exact: true
               },
               {
                 path: '/km/docs/crs2mdl3lsn4',
-                component: ComponentCreator('/km/docs/crs2mdl3lsn4', '8c7'),
+                component: ComponentCreator('/km/docs/crs2mdl3lsn4', '1f9'),
                 exact: true
               },
               {
                 path: '/km/docs/crs2mdl4lsn1',
-                component: ComponentCreator('/km/docs/crs2mdl4lsn1', '290'),
+                component: ComponentCreator('/km/docs/crs2mdl4lsn1', 'ae9'),
                 exact: true,
                 sidebar: "course2"
               },
               {
                 path: '/km/docs/crs2mdl4lsn2',
-                component: ComponentCreator('/km/docs/crs2mdl4lsn2', '715'),
+                component: ComponentCreator('/km/docs/crs2mdl4lsn2', 'b2a'),
                 exact: true,
                 sidebar: "course2"
               },
               {
                 path: '/km/docs/crs2mdl4lsn3',
-                component: ComponentCreator('/km/docs/crs2mdl4lsn3', '0e7'),
-                exact: true,
-                sidebar: "course2"
-              },
-              {
-                path: '/km/docs/crs2mdl4lsn4',
-                component: ComponentCreator('/km/docs/crs2mdl4lsn4', 'b6d'),
+                component: ComponentCreator('/km/docs/crs2mdl4lsn3', '6f1'),
                 exact: true,
                 sidebar: "course2"
               },
               {
                 path: '/km/docs/crs2mdl5lsn1',
-                component: ComponentCreator('/km/docs/crs2mdl5lsn1', 'da2'),
+                component: ComponentCreator('/km/docs/crs2mdl5lsn1', '4bb'),
                 exact: true,
                 sidebar: "course2"
               },
               {
                 path: '/km/docs/crs2mdl6lsn1',
-                component: ComponentCreator('/km/docs/crs2mdl6lsn1', 'd39'),
+                component: ComponentCreator('/km/docs/crs2mdl6lsn1', 'aba'),
                 exact: true,
                 sidebar: "course2"
               },
               {
                 path: '/km/docs/crs2mdl6lsn2',
-                component: ComponentCreator('/km/docs/crs2mdl6lsn2', '36a'),
+                component: ComponentCreator('/km/docs/crs2mdl6lsn2', '0e0'),
                 exact: true,
                 sidebar: "course2"
               },
               {
                 path: '/km/docs/crs2mdl6lsn3',
-                component: ComponentCreator('/km/docs/crs2mdl6lsn3', 'f1d'),
+                component: ComponentCreator('/km/docs/crs2mdl6lsn3', 'c30'),
                 exact: true,
                 sidebar: "course2"
               }

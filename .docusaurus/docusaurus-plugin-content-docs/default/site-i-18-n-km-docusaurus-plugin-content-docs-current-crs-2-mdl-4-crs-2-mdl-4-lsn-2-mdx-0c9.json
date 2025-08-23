@@ -1,0 +1,27 @@
+{
+  "id": "crs2/mdl4/crs2mdl4lsn2",
+  "title": "វាអាចជាការបោកប្រាស់",
+  "description": "អ្នកបោកប្រាស់ច្រើនតែប្រើរូបភាពលួចពីប្រភពផ្សេង៖",
+  "source": "@site/i18n/km/docusaurus-plugin-content-docs/current/crs2/mdl4/crs2mdl4lsn2.mdx",
+  "sourceDirName": "crs2/mdl4",
+  "slug": "/crs2mdl4lsn2",
+  "permalink": "/km/docs/crs2mdl4lsn2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "crs2mdl4lsn2",
+    "title": "វាអាចជាការបោកប្រាស់",
+    "slug": "/crs2mdl4lsn2"
+  },
+  "sidebar": "course2",
+  "previous": {
+    "title": "Fact-checking news and social media",
+    "permalink": "/km/docs/crs2mdl4lsn1"
+  },
+  "next": {
+    "title": "Academic/creative use",
+    "permalink": "/km/docs/crs2mdl4lsn3"
+  }
+}

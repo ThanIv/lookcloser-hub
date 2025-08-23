@@ -32,15 +32,15 @@
     "description": "The label for the doc item Advanced Topics in sidebar guidesSidebar, linking to the doc guides/advanced"
   },
   "sidebar.course2.category.Mastering Google Reverse Image Search": {
-    "message": "Mastering Google Reverse Image Search",
+    "message": "ការប្រើប្រាស់ Google Reverse Image Search",
     "description": "The label for category Mastering Google Reverse Image Search in sidebar course2"
   },
   "sidebar.course2.category.Introduction to Reverse Image Search": {
-    "message": "Introduction to Reverse Image Search",
+    "message": "ការណែនាំអំពី Reverse Image Search",
     "description": "The label for category Introduction to Reverse Image Search in sidebar course2"
   },
   "sidebar.course2.category.How to Use Google Reverse Image Search": {
-    "message": "How to Use Google Reverse Image Search",
+    "message": "របៀបប្រើ Google Reverse Image Search",
     "description": "The label for category How to Use Google Reverse Image Search in sidebar course2"
   },
   "sidebar.course2.category.Advanced Tips & Tricks": {
@@ -48,23 +48,23 @@
     "description": "The label for category Advanced Tips & Tricks in sidebar course2"
   },
   "sidebar.course2.category.Practical Applications": {
-    "message": "Practical Applications",
+    "message": "ការអនុវត្តជាក់ស្តែង",
     "description": "The label for category Practical Applications in sidebar course2"
   },
   "sidebar.course2.category.Limitations": {
-    "message": "Limitations",
+    "message": "វាមានកំណត់",
     "description": "The label for category Limitations in sidebar course2"
   },
   "sidebar.course2.category.Wrap-up & Assessment": {
-    "message": "Wrap-up & Assessment",
+    "message": "សង្ខេប",
     "description": "The label for category Wrap-up & Assessment in sidebar course2"
   },
   "sidebar.course2.doc.What is Reverse Image Search?": {
-    "message": "What is Reverse Image Search?",
+    "message": "តើអ្វីទៅជា Reverse Image Search?",
     "description": "The label for the doc item What is Reverse Image Search? in sidebar course2, linking to the doc crs2/mdl1/crs2mdl1lsn1"
   },
   "sidebar.course2.doc.When to use it": {
-    "message": "When to use it",
+    "message": "តើយើងប្រើវានៅពេលណា",
     "description": "The label for the doc item When to use it in sidebar course2, linking to the doc crs2/mdl1/crs2mdl1lsn2"
   },
   "sidebar.course2.doc.Step 1: Accessing it (desktop vs. mobile)": {
@@ -96,15 +96,15 @@
     "description": "The label for the doc item Looking at similar images for context in sidebar course2, linking to the doc crs2/mdl3/crs2mdl3lsn4"
   },
   "sidebar.course2.doc.Fact-checking news and social media": {
-    "message": "Fact-checking news and social media",
+    "message": "ពិនិត្យព័ត៌មាន និងប្រព័ន្ធផ្សព្វផ្សាយសង្គម",
     "description": "The label for the doc item Fact-checking news and social media in sidebar course2, linking to the doc crs2/mdl4/crs2mdl4lsn1"
   },
   "sidebar.course2.doc.Spotting scams": {
-    "message": "Spotting scams",
+    "message": "វាអាចជាការបោកប្រាស់",
     "description": "The label for the doc item Spotting scams in sidebar course2, linking to the doc crs2/mdl4/crs2mdl4lsn2"
   },
   "sidebar.course2.doc.Academic/creative use": {
-    "message": "Academic/creative use",
+    "message": "សម្រាប់ Academic/creative",
     "description": "The label for the doc item Academic/creative use in sidebar course2, linking to the doc crs2/mdl4/crs2mdl4lsn3"
   },
   "sidebar.course2.doc.Case studies": {
@@ -112,23 +112,23 @@
     "description": "The label for the doc item Case studies in sidebar course2, linking to the doc crs2/mdl4/crs2mdl4lsn4"
   },
   "sidebar.course2.doc.Google’s tool isn’t perfect": {
-    "message": "Google’s tool isn’t perfect",
+    "message": "ឧបករណ៍របស់ Google មិនល្អឥតខ្ចោះទេ",
     "description": "The label for the doc item Google’s tool isn’t perfect in sidebar course2, linking to the doc crs2/mdl5/crs2mdl5lsn1"
   },
   "sidebar.course2.doc.What We Learned": {
-    "message": "What We Learned",
+    "message": "អ្វីដែលយើងបានរៀន",
     "description": "The label for the doc item What We Learned in sidebar course2, linking to the doc crs2/mdl6/crs2mdl6lsn1"
   },
   "sidebar.course2.doc.Quiz": {
-    "message": "Quiz",
+    "message": "សំនួរ",
     "description": "The label for the doc item Quiz in sidebar course2, linking to the doc crs2/mdl6/crs2mdl6lsn2"
   },
   "sidebar.course2.doc.Wrap-up": {
-    "message": "Wrap-up",
+    "message": "សង្ខេប",
     "description": "The label for the doc item Wrap-up in sidebar course2, linking to the doc crs2/mdl6/crs2mdl6lsn3"
   },
   "sidebar.course2.doc.3 Steps - How to Use Google Reverse Image Search": {
-    "message": "3 Steps - How to Use Google Reverse Image Search",
+    "message": "របៀបប្រើ Google Reverse Image Search",
     "description": "The label for the doc item 3 Steps - How to Use Google Reverse Image Search in sidebar course2, linking to the doc crs2/mdl2/crs2mdl2lsn1"
   }
 }

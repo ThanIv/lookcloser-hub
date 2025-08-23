@@ -1,0 +1,62 @@
+{
+  "permalink": "/km/blog/5-common-myths-we-believe-online",
+  "source": "@site/i18n/km/docusaurus-plugin-content-blog/2025-08-18-5-common-myths-we-believe-online.mdx",
+  "title": "ការគិតភាន់ច្រទ្បំទាំង 5 ដែលយើងតែងជឿនៅលើ Online (និងរបៀបពិនិត្យរកការពិត)",
+  "description": "នៅលើអ៊ីនធើណេត សំបូររឿងដែលភ្ញាក់ផ្អើលជាច្រើន ប៉ុន្តៃវាក៏សំបូររឿងដែលធ្វើអោយយើងភាន់ច្រទ្បំផងដែរ។ ពេលខ្លះយើងឃើញរឿងដែលកើតទ្បើង ច្រើនដងរហូតដល់យើងគិតថាវាជាការពិត។ ធ្វើមិចយើងអាចដឹងថាវាពិតឬមិនពិត? ជាមួយនឹងចំណេះដឹងខ្លះៗទាក់ទងទៅនឹង ការផ្សព្វផ្សាយនិងពត៍មាន យើងអាចរៀនសំនួរដែលអាចនាំអោយយើងកំណត់បានថាវាពិតឬអត់ មុននឹងយើងចែករំលែកវា។",
+  "date": "2025-08-18T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "MediaLiteracy",
+      "permalink": "/km/blog/tags/mediaLiteracy",
+      "description": "MediaLiteracy tag description"
+    },
+    {
+      "inline": false,
+      "label": "FactChecking",
+      "permalink": "/km/blog/tags/factChecking",
+      "description": "FactChecking tag description"
+    },
+    {
+      "inline": false,
+      "label": "OnlineMyths",
+      "permalink": "/km/blog/tags/onlineMyths",
+      "description": "OnlineMyths tag description"
+    },
+    {
+      "inline": false,
+      "label": "FakeNews",
+      "permalink": "/km/blog/tags/fakeNews",
+      "description": "FakeNews tag description"
+    }
+  ],
+  "readingTime": 4.33,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "LookCloser Hub",
+      "title": "LookCloser Hub, Community",
+      "url": "https://linkedin.com/in/yangshun",
+      "key": "LookCloser_Hub",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "5-common-myths-we-believe-online",
+    "title": "ការគិតភាន់ច្រទ្បំទាំង 5 ដែលយើងតែងជឿនៅលើ Online (និងរបៀបពិនិត្យរកការពិត)",
+    "authors": [
+      "LookCloser_Hub"
+    ],
+    "tags": [
+      "mediaLiteracy",
+      "factChecking",
+      "onlineMyths",
+      "fakeNews"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "គេហទំព័រល្អចំនួន ៥ សម្រាប់រៀនពីអក្ខរកម្មប្រព័ន្ធផ្សព្វផ្សាយ និង ព័ត៌មាន",
+    "permalink": "/km/blog/5-cool-sites-to-learn-about-media-and-information-literacy"
+  }
+}

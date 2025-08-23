@@ -5,7 +5,7 @@
   "source": "@site/docs/crs2/mdl4/crs2mdl4lsn2.mdx",
   "sourceDirName": "crs2/mdl4",
   "slug": "/crs2mdl4lsn2",
-  "permalink": "/km/docs/crs2mdl4lsn2",
+  "permalink": "/docs/crs2mdl4lsn2",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "course2",
   "previous": {
     "title": "Fact-checking news and social media",
-    "permalink": "/km/docs/crs2mdl4lsn1"
+    "permalink": "/docs/crs2mdl4lsn1"
   },
   "next": {
     "title": "Academic/creative use",
-    "permalink": "/km/docs/crs2mdl4lsn3"
+    "permalink": "/docs/crs2mdl4lsn3"
   }
 }

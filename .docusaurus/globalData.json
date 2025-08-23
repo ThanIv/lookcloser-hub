@@ -121,11 +121,6 @@
               "sidebar": "course2"
             },
             {
-              "id": "crs2/mdl4/crs2mdl4lsn4",
-              "path": "/km/docs/crs2mdl4lsn4",
-              "sidebar": "course2"
-            },
-            {
               "id": "crs2/mdl5/crs2mdl5lsn1",
               "path": "/km/docs/crs2mdl5lsn1",
               "sidebar": "course2"
@@ -151,7 +146,7 @@
             "course2": {
               "link": {
                 "path": "/km/docs/crs2mdl1lsn1",
-                "label": "What is Reverse Image Search?"
+                "label": "តើអ្វីទៅជា Reverse Image Search?"
               }
             }
           }

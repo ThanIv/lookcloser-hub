@@ -1,0 +1,27 @@
+{
+  "id": "crs2/mdl1/crs2mdl1lsn2",
+  "title": "តើយើងប្រើវានៅពេលណា",
+  "description": "- ស្វែករកការពិតនៃរូបភាពដែលល្បី",
+  "source": "@site/i18n/km/docusaurus-plugin-content-docs/current/crs2/mdl1/crs2mdl1lsn2.mdx",
+  "sourceDirName": "crs2/mdl1",
+  "slug": "/crs2mdl1lsn2",
+  "permalink": "/km/docs/crs2mdl1lsn2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "crs2mdl1lsn2",
+    "title": "តើយើងប្រើវានៅពេលណា",
+    "slug": "/crs2mdl1lsn2"
+  },
+  "sidebar": "course2",
+  "previous": {
+    "title": "What is Reverse Image Search?",
+    "permalink": "/km/docs/crs2mdl1lsn1"
+  },
+  "next": {
+    "title": "How to Use Google Reverse Image Search",
+    "permalink": "/km/docs/crs2mdl2lsn1"
+  }
+}

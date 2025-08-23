@@ -1,0 +1,27 @@
+{
+  "id": "crs2/mdl5/crs2mdl5lsn1",
+  "title": "ឧបករណ៍របស់ Google មិនល្អឥតខ្ចោះទេ",
+  "description": "សូមស្វាគមន៍មកកាន់Module 5។ យើងបានរៀនពីរបៀបប្រើប្រាស់ Google Reverse Image Search  ប៉ុន្តែដូចឧបករណ៍ទាំងអស់ដែរ វាតែងមានដែនកំណត់។",
+  "source": "@site/i18n/km/docusaurus-plugin-content-docs/current/crs2/mdl5/crs2mdl5lsn1.mdx",
+  "sourceDirName": "crs2/mdl5",
+  "slug": "/crs2mdl5lsn1",
+  "permalink": "/km/docs/crs2mdl5lsn1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "crs2mdl5lsn1",
+    "title": "ឧបករណ៍របស់ Google មិនល្អឥតខ្ចោះទេ",
+    "slug": "/crs2mdl5lsn1"
+  },
+  "sidebar": "course2",
+  "previous": {
+    "title": "Academic/creative use",
+    "permalink": "/km/docs/crs2mdl4lsn3"
+  },
+  "next": {
+    "title": "What We Learned",
+    "permalink": "/km/docs/crs2mdl6lsn1"
+  }
+}

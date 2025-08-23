@@ -1,0 +1,23 @@
+{
+  "id": "crs2/mdl6/crs2mdl6lsn3",
+  "title": "សង្ខេប",
+  "description": "ការស្វែងរកប្រភពនៃរូបភាពនឹងមិនដោះស្រាយបញ្ហាបានទាំងអស់នោះទេ ប៉ុន្តែវាផ្តល់ឱ្យយើងនូវវិធីដ៏មានប្រសិទ្ធិភាពក្នុងការពិនិត្យមើលការពិតនូវអ្វីដែលយើងឃើញនៅលើអ៊ីនធឺណិត។ គន្លឹះសំខាន់គឺត្រូវគិតដល់ការស្វែងរកប្រភពដើម គិតឱ្យបានល្អិតល្អន់ និងពិនិត្យមើលឡើងវិញមុនពេលចែករំលែក។",
+  "source": "@site/i18n/km/docusaurus-plugin-content-docs/current/crs2/mdl6/crs2mdl6lsn3.mdx",
+  "sourceDirName": "crs2/mdl6",
+  "slug": "/crs2mdl6lsn3",
+  "permalink": "/km/docs/crs2mdl6lsn3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "crs2mdl6lsn3",
+    "title": "សង្ខេប",
+    "slug": "/crs2mdl6lsn3"
+  },
+  "sidebar": "course2",
+  "previous": {
+    "title": "Quiz",
+    "permalink": "/km/docs/crs2mdl6lsn2"
+  }
+}

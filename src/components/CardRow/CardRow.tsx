@@ -2,6 +2,7 @@ import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 import { CardItem } from '@site/src/types';
+import Translate from '@docusaurus/Translate';
 
 interface CardProps {
   cardContents: CardItem[];
@@ -16,7 +17,9 @@ export function CardRow({ cardContents, heading }: CardProps) {
     <section className={clsx('padding--lg', styles.features)}>
       <div className="container">
         <Heading as="h2" className="text--center margin-bottom--lg">
-          {heading}
+          <Translate id="cardRow.heading">
+            {heading}
+          </Translate>
         </Heading>
         <div className={styles.gridContainer}>
           {displayedContents.map((cardContent, index) => (
@@ -46,7 +49,9 @@ export function CardRow({ cardContents, heading }: CardProps) {
         </div>
         <div className={clsx('text--center', 'margin-top--lg')}>
           <a href="/resource" className={clsx('button', styles.seeAllButton)}>
-            See all resources
+            <Translate id="cardRow.button">
+              See all resources
+            </Translate>
           </a>
         </div>
       </div>

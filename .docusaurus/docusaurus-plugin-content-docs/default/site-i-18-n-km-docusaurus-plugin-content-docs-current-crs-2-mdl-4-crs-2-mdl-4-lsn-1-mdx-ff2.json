@@ -1,0 +1,27 @@
+{
+  "id": "crs2/mdl4/crs2mdl4lsn1",
+  "title": "ពិនិត្យព័ត៌មាន និងប្រព័ន្ធផ្សព្វផ្សាយសង្គម ដើម្បីស្វែងរកការពិត",
+  "description": "រាល់ពេលដែលអ្នកឃើញរូបថតគួរឱ្យភ្ញាក់ផ្អើល ឬមិនគួរឱ្យជឿ សូមកុំទាន់ចែករំលែក។ ប្រើការស្វែងរកប្រភពដើមនៃរូបភាព ដើម្បីមើលថាតើវាជារូបចាស់ រូបកែសម្រួល ឬខុសព្រឹត្តិការ។ ជាញឹកញយ អ្នកអាច​នឹងរក​ឃើញ​ថា​រូបភាព​ត្រូវ​បាន​ផ្សព្វផ្សាយ​អស់​រយៈពេល​ជាច្រើន​ឆ្នាំមកហើយ ឬក្នុងព្រឹត្តិការណ៍​ផ្សេង។",
+  "source": "@site/i18n/km/docusaurus-plugin-content-docs/current/crs2/mdl4/crs2mdl4lsn1.mdx",
+  "sourceDirName": "crs2/mdl4",
+  "slug": "/crs2mdl4lsn1",
+  "permalink": "/km/docs/crs2mdl4lsn1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "crs2mdl4lsn1",
+    "title": "ពិនិត្យព័ត៌មាន និងប្រព័ន្ធផ្សព្វផ្សាយសង្គម ដើម្បីស្វែងរកការពិត",
+    "slug": "/crs2mdl4lsn1"
+  },
+  "sidebar": "course2",
+  "previous": {
+    "title": "How to Use Google Reverse Image Search",
+    "permalink": "/km/docs/crs2mdl2lsn1"
+  },
+  "next": {
+    "title": "Spotting scams",
+    "permalink": "/km/docs/crs2mdl4lsn2"
+  }
+}
