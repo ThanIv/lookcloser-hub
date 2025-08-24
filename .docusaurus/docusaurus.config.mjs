@@ -33,7 +33,7 @@ export default {
     "experimental_router": "browser"
   },
   "url": "https://your-docusaurus-site.example.com",
-  "baseUrl": "/km/",
+  "baseUrl": "/",
   "organizationName": "facebook",
   "projectName": "docusaurus",
   "onBrokenLinks": "throw",
@@ -89,17 +89,17 @@ export default {
       "items": [
         {
           "to": "/resource",
-          "label": "ធនធាន",
+          "label": "Resource",
           "position": "left"
         },
         {
           "to": "/webinar",
-          "label": "សិក្ខាសាលា",
+          "label": "Webinar",
           "position": "left"
         },
         {
           "to": "/blog",
-          "label": "ប្លុក",
+          "label": "Blog",
           "position": "left"
         },
         {
@@ -120,7 +120,7 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "សហគមន៍",
+          "title": "Community",
           "items": [
             {
               "label": "Telegram",
@@ -129,11 +129,11 @@ export default {
           ]
         },
         {
-          "title": "ផ្សេងៗ",
+          "title": "Others",
           "items": []
         }
       ],
-      "copyright": "រក្សាសិទ្ធិ © 2025 LookCloser Hub. បង្កើតដោយប្រើប្រាស់ Docusaurus."
+      "copyright": "Copyright © 2025 LookCloser Hub. Built with Docusaurus."
     },
     "prism": {
       "theme": {
